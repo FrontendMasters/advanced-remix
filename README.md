@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"><a href="https://kentcdodds.com/workshops/advanced-remix">💿 Advanced Remix Workshop</a></h1>
+  <h1 align="center"><a href="https://frontendmasters.com/courses/advanced-remix/">💿 Advanced Remix Workshop</a></h1>
   <p>
     Remix enables you to build fantastic user experiences for the web and feel
     happy with the code that got you there. In this workshop, we'll look at some
@@ -26,7 +26,7 @@
 ## System Requirements
 
 - [git][git] v2.13 or greater
-- [NodeJS][node] `14 || 16 || 18`
+- [NodeJS][node] `16 || 18`
 - [npm][npm] v8 or greater
 
 All of these must be available in your `PATH`. To verify things are set up
