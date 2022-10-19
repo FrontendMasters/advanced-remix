@@ -5,7 +5,7 @@
 ## 🤓 Background
 
 Before JavaScript came around, any time you submitted a form, the browser would
-send a request the server and the server would respond with a new page. This
+send a request to the server and the server would respond with a new page. This
 effectively revalidated all the data on the page (because the whole page was
 new). When JavaScript showed up, we decided we should use the response that came
 back and stitch it into the existing page. Unfortunately, this led to a lot of
