@@ -52,7 +52,7 @@ export default function CustomerRoute() {
       {/*
         🐨 Wrap this in <Suspense><Await /></Suspense> components with:
         - Suspense "fallback" prop should be <InvoiceDetailsFallback /> (imported from "~/components")
-        - Await "resolve" prop as data.invoiceDetails
+        - Await "resolve" prop as data.customerDetails
         - Await "errorElement" prop can be the ErrorFallback component (imported from "~/components")
       */}
       <table className="w-full">
