@@ -24,7 +24,7 @@ mutation that doesn't navigate. However, the mental model and API remains the
 same. Think of `useFetcher()` as a non-navigation version of `Form` and
 `useTransition()` (because that's what it is).
 
-📜 [`useFetcher()` docs](https://remix.run/docs/en/v1/api/remix#usefetcher)
+📜 [`useFetcher()` docs](https://remix.run/docs/en/1.15.0/hooks/use-fetcher)
 
 ## 💪 Exercise
 
