@@ -28,7 +28,7 @@ bit more about the mutation, which Remix is well suited to provide you with via
 `useTransition().submission` (and `useFetcher().submission`).
 
 📜
-[Remix docs on Optimistic UI](https://remix.run/docs/en/v1/guides/optimistic-ui)
+[Remix docs on Optimistic UI](https://remix.run/docs/en/1.15.0/guides/optimistic-ui)
 
 ## 💪 Exercise
 

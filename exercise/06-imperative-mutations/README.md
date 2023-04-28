@@ -12,7 +12,7 @@ wanted to track how many times a blog post was read without having readers
 self-report by clicking a "I read this" button. If you're on one of the blog
 posts for long enough to have read it and scroll through the whole then that
 should count as a "read." So I could use
-[`useFetcher().submit`](https://remix.run/docs/en/v1/api/remix#fetchersubmit) +
+[`useFetcher().submit`](https://remix.run/docs/en/1.15.0/hooks/use-fetcher#fetchersubmit) +
 `useEffect` to make this work. It's something like this:
 
 ```tsx
@@ -43,7 +43,7 @@ function BlogPostRoute() {
 ```
 
 You could also use the
-[`useSubmit`](https://remix.run/docs/en/v1/api/remix#usesubmit) hook to
+[`useSubmit`](https://remix.run/docs/en/1.15.0/hooks/use-submit) hook to
 accomplish this:
 
 ```ts

@@ -15,7 +15,7 @@ and you can use that to know when to show a spinner. Just hook into transitions
 via Remix's `useTransition()` hook and you're in business:
 
 📜
-[`useTransition()` docs](https://remix.run/docs/en/v1/api/remix#usetransition)
+[`useTransition()` docs](https://remix.run/docs/en/1.15.0/hooks/use-transition)
 
 ## 💪 Exercise
 

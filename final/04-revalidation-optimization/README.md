@@ -41,7 +41,7 @@ all situations when that data could change and only return true if those
 situations are happening.
 
 📜
-[`unstable_shouldReload` docs](https://remix.run/docs/en/v1/api/conventions#unstable_shouldreload)
+[`unstable_shouldReload` docs](https://remix.run/docs/en/1.15.0/route/should-reload)
 
 ## 💪 Exercise
 
